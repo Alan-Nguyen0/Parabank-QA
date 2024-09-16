@@ -1,4 +1,4 @@
-Feature: Actions on Parabank home page. Demonstrating some assertion and scooping methods
+Feature: Actions on Parabank home page
 
   Scenario: User observes Parabank logo on home page
     Given User has navigated to the home page website
